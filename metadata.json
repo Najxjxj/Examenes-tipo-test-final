@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of StudyGen",
+  "description": "An AI-powered study platform that transforms documents into interactive exams, tracks progress, and provides smart feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
